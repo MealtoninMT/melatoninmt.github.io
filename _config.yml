@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yunfei Liu (刘云飞)"
-  avatar           : "images/profile.png"
+  avatar           : "/images/profile.png"
   bio              : "PhD student"
   location         : "Beijing China"
   email            : liuyunfei_pku@163.com
