@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Medicine, Peking University, 2020
 * B.S. in Economics, Peking University, 2020
-* M.S. in Biostatistics, Peking University, 2022 (expected)
+* M.S. in Maternal, Child and Adolescent Health, Peking University, 2022
 
 Publications
 ======
