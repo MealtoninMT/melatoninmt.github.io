@@ -155,6 +155,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+remote_theme: pages-themes/midnight@v0.2.0
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -181,12 +182,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  album:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -227,23 +226,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _album
   - scope:
       path: ""
-      type: portfolio
+      type: album
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
@@ -265,6 +257,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
