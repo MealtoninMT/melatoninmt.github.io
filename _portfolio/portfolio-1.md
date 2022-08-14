@@ -1,7 +1,7 @@
 ---
-title: "Light and shadow"
-excerpt: "This photo was taken at Red Brick Art Museum, Beijing<br/><img src='/images/ls.png'>"
+title: "graduation 2022"
+excerpt: "These photos was taken at Peking University, Beijing<br/><img src='/images/graduation_1.jpg'>"
 collection: portfolio
 ---
-<img src='/images/ls.png'>
- God said, "Let there be light," and there was light.
+<img src='/images/graduation_1.jpg'>
+<img src='/images/graduation_2.jpg'>
